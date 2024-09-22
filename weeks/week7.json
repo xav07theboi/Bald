@@ -1,0 +1,30 @@
+{
+	"storyName": "Tankman",
+	"hideFreeplay": true,
+	"weekBackground": "tank",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"",
+			"tankman",
+			[
+				246,
+				182,
+				4
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": ""
+}

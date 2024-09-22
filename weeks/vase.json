@@ -1,0 +1,41 @@
+{
+	"storyName": "The Vase",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "jarron",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "goofyguy",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"vase",
+			"baldpieceofshit",
+			[
+				0,
+				73,
+				0
+			]
+		],
+		[
+			"broken",
+			"spooky",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Vase",
+	"hiddenUntilUnlocked": false
+}

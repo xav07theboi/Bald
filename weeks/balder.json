@@ -1,0 +1,44 @@
+{
+	"storyName": "balder",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "learn",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"balder",
+			"baldpieceofshit",
+			[
+				75,
+				215,
+				75
+			]
+		],
+		[
+			"houseschool",
+			"baldpieceofshit",
+			[
+				75,
+				215,
+				75
+			]
+		],
+		[
+			"final-lesson",
+			"baldpieceofshit",
+			[
+				75,
+				215,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "balder"
+}

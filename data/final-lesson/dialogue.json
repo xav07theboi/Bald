@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "badi",
+			"speed": 0.05,
+			"portrait": "balder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok that's it im out"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait no"
+		},
+		{
+			"sound": "badi",
+			"speed": 0.05,
+			"portrait": "balder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what do you need now you fucking smurf lookin ahh boey"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap again"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "1 time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "3rd song"
+		},
+		{
+			"sound": "badi",
+			"speed": 0.05,
+			"portrait": "balder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine, but if you die its not my problem"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait what"
+		}
+	]
+}

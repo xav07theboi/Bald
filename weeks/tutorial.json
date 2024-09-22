@@ -1,0 +1,26 @@
+{
+	"storyName": "quandale dingle",
+	"difficulties": "Hard, Easy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Tutorial"
+}

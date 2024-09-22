@@ -1,0 +1,50 @@
+{
+	"storyName": "GWA GWA",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "ilovelean",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "black",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"gwa-gear",
+			"furby",
+			[
+				166,
+				100,
+				0
+			]
+		],
+		[
+			"that-funny",
+			"furby",
+			[
+				146,
+				80,
+				0
+			]
+		],
+		[
+			"gwa-gwa",
+			"furby",
+			[
+				126,
+				60,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "GWA GWA",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "jack black vs balder real",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "jack",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "balder",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"black-discussion",
+			"black",
+			[
+				140,
+				80,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "jack black",
+	"hiddenUntilUnlocked": false
+}

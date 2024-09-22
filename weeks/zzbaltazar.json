@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"baltazar",
+			"baltazar",
+			[
+				100,
+				140,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "baltazar",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "vase",
+	"startUnlocked": true
+}
